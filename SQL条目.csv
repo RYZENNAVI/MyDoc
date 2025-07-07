@@ -1,0 +1,63 @@
+md文件,SQL基本操作
+
+basic 
+SQL Grundlagenbefehle,CREATE TABLE
+SQL Grundlagenbefehle,ALTER TABLE
+SQL Grundlagenbefehle,DROP TABLE
+SQL Grundlagenbefehle,INSERT INTO
+SQL Grundlagenbefehle,SELECT
+SQL Grundlagenbefehle,DELETE
+SQL Grundlagenbefehle,"Constraints (NOT NULL, UNIQUE, DEFAULT)"
+
+JOIN
+Zusammenführen von Tabellen mittels JOIN,JOIN
+Zusammenführen von Tabellen mittels JOIN,INNER JOIN
+Zusammenführen von Tabellen mittels JOIN,LEFT JOIN
+Zusammenführen von Tabellen mittels JOIN,RIGHT JOIN
+Zusammenführen von Tabellen mittels JOIN,FULL JOIN UNION
+Zusammenführen von Tabellen mittels JOIN,GROUP BY
+Zusammenführen von Tabellen mittels JOIN,Aggregate Functions (COUNT)
+
+project
+SQL Datenbankprojekt,CREATE TABLE
+SQL Datenbankprojekt,FOREIGN KEY
+SQL Datenbankprojekt,INSERT INTO
+SQL Datenbankprojekt,SELECT
+SQL Datenbankprojekt,JOIN
+SQL Datenbankprojekt,GROUP BY
+SQL Datenbankprojekt,"Aggregate Functions (COUNT, AVG)"
+SQL Datenbankprojekt,ORDER BY
+SQL Datenbankprojekt,WHERE
+
+select 
+SQL Select anwenden,SELECT
+SQL Select anwenden,WHERE
+SQL Select anwenden,LIMIT
+SQL Select anwenden,AND / OR
+SQL Select anwenden,Subqueries
+SQL Select anwenden,AS (Aliases)
+SQL Select anwenden,"Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)"
+SQL Select anwenden,GROUP BY
+SQL Select anwenden,HAVING
+SQL Select anwenden,ORDER BY
+SQL Select anwenden,DISTINCT
+
+update view
+SQL Datenpflege und Sichten,UPDATE
+SQL Datenpflege und Sichten,CREATE VIEW
+SQL Datenpflege und Sichten,SELECT
+SQL Datenpflege und Sichten,JOIN
+SQL Datenpflege und Sichten,GROUP BY
+SQL Datenpflege und Sichten,SUM
+SQL Datenpflege und Sichten,DROP VIEW
+SQL Datenpflege und Sichten,DATE Functions
+
+user admin 
+Benutzerverwaltung mit SQL,INSERT INTO
+Benutzerverwaltung mit SQL,UPDATE
+Benutzerverwaltung mit SQL,DELETE
+Benutzerverwaltung mit SQL,JOIN
+Benutzerverwaltung mit SQL,julianday() (DATE Functions)
+Benutzerverwaltung mit SQL,SELECT
+Benutzerverwaltung mit SQL,GROUP BY
+Benutzerverwaltung mit SQL,Subqueries with NOT IN

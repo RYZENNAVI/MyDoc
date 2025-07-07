@@ -1,0 +1,13 @@
+propra库和instrustor库
+sudo apt install pipx            # 或者 aptx install python3-pip && pipx install …
+pipx install sedrila propra
+
+测试
+sedrila author --config sedrila.yaml --include_stage draft out
+python3 -m http.server
+
+
+子模块更新
+git submodule init
+git submodule update --recursive
+    
