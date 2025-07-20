@@ -10,4 +10,11 @@ python3 -m http.server
 子模块更新
 git submodule init
 git submodule update --recursive
-    
+git submodule update --recursive --remote  
+
+脚本快速
+chmod +x serve_author.sh serve_instructor.sh
+
+./serve_author.sh
+
+./serve_instructor.sh
